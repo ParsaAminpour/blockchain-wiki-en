@@ -139,6 +139,8 @@ We want to buy some tokens of Y using our tokens of X. We are willing to use 100
 According to the formula:
 
 > ΔY = Y - (X * Y) / (X + ΔX),
+Which it's equal to:
+> ΔY = (ΔX * Y) / (X + ΔX)
 
 we get:
 
